@@ -1,11 +1,3 @@
-<!-- 
-• strlen() → menghitung panjang string.
-• str_word_count() → menghitung jumlah kata.
-• strrev() → membalik string.
-• strpos() → mencari posisi substring.
-• str_replace() → mengganti kata dalam string. 
--->
-
 <?php
 
 $str_eg = "Lorem ipsum Dolor is amet ini contoh saja.";

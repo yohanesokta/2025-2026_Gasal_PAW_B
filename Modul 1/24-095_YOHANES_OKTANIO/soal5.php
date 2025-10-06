@@ -1,4 +1,3 @@
-<!-- Deklarasi variabel dengan berbagai tipe data (string, integer, float, boolean). -->
 
 <?php
  $variable_string = "Hello Yohanes";
