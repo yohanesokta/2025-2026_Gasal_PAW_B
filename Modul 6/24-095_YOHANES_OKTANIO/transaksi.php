@@ -5,7 +5,6 @@ if (isset($_POST)) {
     $result = mysqli_query($conn, "SELECT * FROM user");
     $user = mysqli_fetch_assoc($result);
     $no_nota =  date('Ymdhisv');
-    echo $no_nota;
 
     if (isset($_POST['idbarang']) && isset($_POST['jumlahbarang'])) {
         $idbarang = $_POST['idbarang'];
